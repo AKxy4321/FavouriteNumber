@@ -20,3 +20,4 @@
 
 ### Caution 
 - Use only the network details above or else you may encounter errors.
+- Incase you get an internal json-rpc error, then delete your current account that was generated before, go back to the `yarn hardhat node` output, and add any account listed there. The error should go away, if it doesnt, then try again.
